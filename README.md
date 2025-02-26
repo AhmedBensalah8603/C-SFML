@@ -16,7 +16,7 @@ Flappy Ziwziw is a game developed in C++ using the SFML graphics library. It is 
 ## Installation and Compilation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AhmedBensalah8603/C-SFML.git
+   git clone https://github.com/AhmedBensalah8603/FlappyZiwziw.git
    ```
 2. Navigate to the project directory:
    ```bash
